@@ -1,4 +1,21 @@
-# 🐍 Advanced Data Structures and Algorithms in Python
+👤 About Me
+Hi, I’m Hiral Kanakhara — a passionate software developer and problem solver currently pursuing an MCA with a specialization in Artificial Intelligence and Machine Learning at Amity University Online.
+
+I have solved 400+ problems on LeetCode and have built this repository to serve as a structured and comprehensive resource for mastering Data Structures and Algorithms using Python. This repo shows my deep interest for learning DSA not just theoretically but with hands-on implementation and real problem-solving techniques.
+
+🧠 I’m deeply interested in:
+
+AI/ML Development
+
+Full-stack Web Development
+
+Competitive Programming
+
+System Design
+
+Open Source Projects
+
+### Advanced Data Structures and Algorithms in Python
 
 Welcome to one of the most comprehensive repositories for mastering **Data Structures and Algorithms (DSA)** using **Python**. Whether you're preparing for coding interviews, learning algorithmic thinking, or diving deep into competitive programming, this repo is built to support all levels of learners — from intermediate to advanced.
 
